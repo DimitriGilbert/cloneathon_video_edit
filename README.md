@@ -1,5 +1,7 @@
 # LiteChat Entry Video Processing Scripts
 
+https://youtu.be/ytp9fF5npCg
+
 This directory contains scripts to process the litechat_entry MKV files through a complete video processing pipeline.
 
 ## Overview
